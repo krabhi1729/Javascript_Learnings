@@ -40,4 +40,12 @@ Diagram:
    |                                  |
    +----------------------------------+
 ```
+- JS is a synchronous, single-threaded language
+ - #### Synchronus
+   Synchronous refers to the order in which tasks are executed relative to each other.
 
+ - #### Single-threaded language
+  Single-threaded refers to the number of execution paths or "lanes" available for processing tasks in a 
+  program or language.
+   
+  
