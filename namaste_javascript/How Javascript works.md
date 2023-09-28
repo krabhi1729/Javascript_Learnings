@@ -1,4 +1,4 @@
-## EXECUTION CONTEXT IN JAVASCRIPT
+## 1. EXECUTION CONTEXT IN JAVASCRIPT
 - Imagine that you are a chef working in a kitchen. The kitchen is like the "execution context" for your cooking activities. In this kitchen, there are two main components: the "memory component" and the "code component."
 
 ## 1. Memory Component (Variable Environment):
